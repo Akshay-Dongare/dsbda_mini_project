@@ -3,3 +3,5 @@ This application is streamlit dashboard that can be used to analyze motor vehicl
 # How to run 
 1. `pip install -r requirements.txt`
 2. `streamlit run ./app.py`
+# updated dataset link:
+https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes
